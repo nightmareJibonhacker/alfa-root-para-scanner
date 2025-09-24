@@ -19,7 +19,7 @@ RESET = "\033[0m"
 
 # ========= Security ==========
 USERNAME = "alfa-root"
-PASSWORD = "alfa-root#"
+PASSWORD = "alfa-root####"
 
 def check_auth():
     print(f"{YELLOW}[SECURITY]{RESET} Login Required")
